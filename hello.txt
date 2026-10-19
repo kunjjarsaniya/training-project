@@ -3,4 +3,4 @@ Hello
 Fast-forward merge practice change.
 
 squash merge practice change. 
-seocnd squash merge practice change.
+seocnd squash merge practice change.Change A for specific stash.
